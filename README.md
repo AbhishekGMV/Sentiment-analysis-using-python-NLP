@@ -28,7 +28,6 @@ An analysis of the `twitter` data set included in the `nltk` corpus.
 
 ## Requirements
 
-
 The simplest way(and the suggested way) would be to install the the required packages and the dependencies by using either [anaconda](https://www.continuum.io/downloads) or [miniconda](http://conda.pydata.org/miniconda.html)
 
 After that you can do
@@ -40,10 +39,9 @@ $ conda install scikit-learn nltk
 
 ***
 
-#### Downloading the dataset
+### Downloading the datasets 
 
-
-The dataset used in this package is bundled along with the `nltk` package.
+[Click here](https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format) to download datasets from kaggle.
 
 Run your python interpreter
 
@@ -78,7 +76,7 @@ $ cd Sentiment-analysis-using-python-NLP
 ```
 
 2. Running the code 
-    ```
-    Preffered to run in a jupyter notebook.
-    Place the code in a cell and execute it(Shift+Ret).
-    ```
+```
+Preffered to run in a jupyter notebook.
+Place the code in a cell and execute it(Shift+Ret).
+```
