@@ -62,7 +62,7 @@ Check if everything is good till now by running your interpreter again and impor
 >>> from nltk.corpus import stopwords, movie_reviews
 >>> import sklearn
 >>> 
-```
+````
 
 If these imports work for you. Then you are good to go!
 
@@ -78,4 +78,7 @@ $ cd Sentiment-analysis-using-python-NLP
 ```
 
 2. Running the code 
-    `python SentimentAnalysis.py`
+    ```
+    Preffered to run in a jupyter notebook.
+    Place the code in a cell and execute it(Shift+Ret).
+    ```
