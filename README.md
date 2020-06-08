@@ -41,7 +41,7 @@ $ conda install scikit-learn nltk
 
 ### Downloading the datasets 
 
-[Click here](https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format) to download datasets from kaggle.
+[Click here](https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format) to download datasets used in this project, from kaggle.
 
 Run your python interpreter
 
